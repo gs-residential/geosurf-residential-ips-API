@@ -7,10 +7,10 @@ Using the API requires a <a href="http://www.geosurf.com/products/residential-ip
 
 Features
 
-Sticky IPs
-Random country selection
-IP rotation
-Sticky IPs
+Sticky IPs <br>
+Random country selection<br>
+IP rotation<br>
+Sticky IPs<br>
 
 Don’t forget to whitelist your machine IP, <a href="http://www.geosurf.com/resources/faq/#toggle-id-31">see instructionat</a>.
 <br>
