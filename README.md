@@ -3,7 +3,7 @@
 Premium gateway HTTP/HTTPS premium residential IPs proxy with an inbuilt ip rotation.
 With Geosurf Residential IPs API you can easily utilize Geosurf Network of residential IPs.
 
-Using the API requires a Geosurf Residential IPs account.
+Using the API requires a <a href="http://www.geosurf.com/products/residential-ips/">Geosurf Residential IPs account </a>.
 
 Features
 
