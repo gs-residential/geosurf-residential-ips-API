@@ -12,6 +12,6 @@ Random country selection
 IP rotation
 Sticky IPs
 
-Don’t forget to whitelist your machine IP, see instructionat : http://www.geosurf.com/resources/faq/#toggle-id-31 .
+Don’t forget to whitelist your machine IP, <a href="http://www.geosurf.com/resources/faq/#toggle-id-31">see instructionat</a>.
 A full list of gateways and ports are available in Geosurf residential <a href="http://client.geosurf.io">dashboard </a>, check out Residential IPs <a href="http://www.geosurf.com/resources/residential-ips-integration-guide/">Integration guide</a>.
 
