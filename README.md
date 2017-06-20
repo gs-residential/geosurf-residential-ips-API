@@ -5,7 +5,7 @@ With Geosurf Residential IPs API you can easily utilize Geosurf Network of resid
 
 Using the API requires a <a href="http://www.geosurf.com/products/residential-ips/">Geosurf Residential IPs account </a>.
 
-Features
+###Features
 
 Sticky IPs <br>
 Random country selection<br>
