@@ -1,0 +1,21 @@
+PHP. file_get_contents
+// PHP file_get_contents proxy example
+// http://www.geosurf.com//resources/residential-ips-integration-guide
+
+// Our gateway’s hosthname + port, check your dashboard for full gateways list
+$gs_proxy_addr = “gw1.geosurf.io:8081”;
+
+// Target URL
+$url = “http://www.example.com”;
+
+// Create file_get_contents context stream
+$proxy_context_array = array(
+‘http’ => array(
+‘proxy’ => $gs_proxy_addr,
+‘request_fulluri’ => TRUE
+)
+);
+$proxy_context = stream_context_create($proxy_context_array);
+
+// Use context stream with file_get_contents
+$data = file_get_contents($url, FALSE, $context);
